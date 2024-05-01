@@ -22,3 +22,7 @@ DB_HOST=localhost
 DB_USER=your_username
 DB_PASSWORD=your_password
 DB_NAME=your_database_name
+
+
+Then in web exec npm run dev:next
+Then in back exec npm run start:serverv2
